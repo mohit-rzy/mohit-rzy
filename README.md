@@ -7,15 +7,16 @@
 ## 🚀 About Me
 
  I'm a Full-Stack TypeScript Developer and AI Enthusiast with a passion for building scalable applications. As a founder of a multi-million dollar startup, I've learned the importance of creating robust, efficient solutions that can grow with business needs.
- 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="flex: 3;">
-    ### What I'm Up To:
 
-    - 💻 Crafting scalable solutions with **Express.js** & **TypeScript**
-    - 🤖 Exploring the frontiers of **AI** and **Deep Learning**
-    - 🏗️ Architecting robust cloud infrastructures
-    - 🐱 Getting code reviews from my feline assistant
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 3;">
+    <h3 style="margin-bottom: 10px;"> What I'm Up To:</h3>
+    <ul>
+      <li>💻 Crafting scalable solutions with <strong>Express.js</strong> & <strong>TypeScript</strong></li>
+      <li>🤖 Exploring the frontiers of <strong>AI</strong> and <strong>Deep Learning</strong></li>
+      <li>🏗️ Architecting robust cloud infrastructures</li>
+      <li>🐱 Getting code reviews from my feline assistant</li>
+    </ul>
   </div>
   <div style="flex: 2;">
     <img alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; height: auto;">
@@ -62,10 +63,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/mohit-rzy/mohit-rzy/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/mohit-rzy/mohit-rzy/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mohit-rzy&theme=react-dark" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit-rzy&theme=react-dark" alt="Contribution Graph">
 </div> 
