@@ -6,16 +6,21 @@
 
 ## 🚀 About Me
 
-I'm a Full-Stack TypeScript Developer and AI Enthusiast with a passion for building scalable applications. As a founder of a multi-million dollar startup, I've learned the importance of creating robust, efficient solutions that can grow with business needs.
+ I'm a Full-Stack TypeScript Developer and AI Enthusiast with a passion for building scalable applications. As a founder of a multi-million dollar startup, I've learned the importance of creating robust, efficient solutions that can grow with business needs.
+ 
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="flex: 3;">
+    ### What I'm Up To:
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-### What I'm Up To:
-
-- 💻 Crafting scalable solutions with **Express.js** & **TypeScript**
-- 🤖 Exploring the frontiers of **AI** and **Deep Learning**
-- 🏗️ Architecting robust cloud infrastructures
-- 🐱 Getting code reviews from my feline assistant
+    - 💻 Crafting scalable solutions with **Express.js** & **TypeScript**
+    - 🤖 Exploring the frontiers of **AI** and **Deep Learning**
+    - 🏗️ Architecting robust cloud infrastructures
+    - 🐱 Getting code reviews from my feline assistant
+  </div>
+  <div style="flex: 2;">
+    <img alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; height: auto;">
+  </div>
+</div>
 
 ## 🛠️ Tech Stack
 
